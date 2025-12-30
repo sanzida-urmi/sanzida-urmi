@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://fb.com/sanzida.urmi.993873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanzida.urmi.993873" height="30" width="40" /></a>
 <a href="https://instagram.com/sanzida7urmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanzida7urmi" height="30" width="40" /></a>
-  - 📞 Phone: +8801925515650
+   📞 Phone: +8801925515650
 </p>
 
 
@@ -31,8 +31,6 @@
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanzida-urmi&show_icons=true&locale=en&layout=compact" alt="sanzida-urmi" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanzida-urmi&layout=compact&theme=default" />
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzida-urmi&show_icons=true&locale=en" alt="sanzida-urmi" /></p>
 
