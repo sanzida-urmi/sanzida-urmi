@@ -32,9 +32,10 @@
 - 📫 How to reach me: sanzidaurmi2002@gmail.com
 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanzida-urmi&show_icons=true&locale=en&layout=compact" alt="sanzida-urmi" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanzida-urmi&show_icons=true&locale=en" alt="sanzida-urmi" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanzida-urmi&show_icons=true&locale=en" alt="sanzida-urmi" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanzida-urmi&label=Profile%20views&color=0e75b6&style=flat" alt="sanzida-urmi" /> </p>
 
