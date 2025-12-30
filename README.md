@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sanzida.urmi.993873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanzida.urmi.993873" height="30" width="40" /></a>
-<a href="https://instagram.com/sanzida7urmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanzida7urmi" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/most-sanzida-khatun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="most-sanzida-khatun" height="30" width="40" /></a>
    
 
