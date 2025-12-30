@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/7tmhThkG/Blue-and-White-Illustrated-Welcome-Banner.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/1YfFYyrm/Blue-and-White-Illustrated-Welcome-Banner-2.png)
 
 <h1 align="center">Hi 👋, I'm Sanzida</h1>
 <h3 align="center">Web Developer & CSE Student 
