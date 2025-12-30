@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://i.ibb.co.com/1YfFYyrm/Blue-and-White-Illustrated-Welcome-Banner-2.png)
 
-<h1 align="center">Hi 👋, I'm Sanzida</h1>
-<h3 align="center">Web Developer & CSE Student 
+<h1 align="center">Hi 👋, I'm Most. Sanzida Khatun</h1>
+<h3 align="center">Mern Stack Developer & CSE Student 
 
 🔬 I'm currently pursuing my **BSc in CSE**  
 💻 I love writing code and learning new technologies  
