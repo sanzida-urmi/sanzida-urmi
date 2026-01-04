@@ -1,5 +1,5 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/1YfFYyrm/Blue-and-White-Illustrated-Welcome-Banner-2.png)
-
+![I am GitHub Readme Generator's creator](https://i.ibb.co.com/rGqwp3gJ/Screenshot-2026-01-04-235211.png)
+https://i.ibb.co.com/1YfFYyrm/Blue-and-White-Illustrated-Welcome-Banner-2.png
 <h1 align="center">Hi 👋, I'm Most. Sanzida Khatun</h1>
 <h3 align="center">Mern Stack Developer & CSE Student 
 
